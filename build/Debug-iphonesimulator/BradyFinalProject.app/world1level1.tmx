@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="10" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="SMB World Tiles" tilewidth="32" tileheight="32" spacing="2">
+  <image source="smb-world-tiles.png"/>
+ </tileset>
+ <layer name="Layer 0" width="100" height="10">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA9WUu2/CMBDGk1JAYqDdOgCdOkBZulR0KAuwwNQHj4GC+hiqtkv//6lfJFs6fYoT29giHX6Scz6f7+7zZZskyQvYgT3YHkhRrJD3hMqpinyBb/DjUEfTMVbZXsx+2t4bS7fLyDpV5b38h3uuwfDI/dPYvLcQb9IlRsgZ6CnK/O4qoEWGzXsL8SZdYoT8d9nq8ZljuxXY1tkw2DKaYh1DywbhE+MJPINlYI17hI8eEzACs0j909x4nrt38H0Fb4r3Et+PCHkfqkc2E48C04ycGOwd0C25U58dC1uLKOr93LIXeTkWaflL3yuwBhuyy7y5Xh2fdfDVQ8/GNDHPSBucgXP1XQOnoA76YED+cl+eXaj9FFwQKfVexrDRg3NkLfN6zXqYZmYh1lyvju+rB/uMFA9irffSiFwRLme5JpMP+3Ov8/RgW8weuPIH2PxFn6APAAA=
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,1978 @@
+TBradyFinalProject
+v7
+r0
+t326227513.605781
+cCheck dependencies
+cProcessInfoPlistFile /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/Info.plist Resources/Info.plist
+cCpResource build/Debug-iphonesimulator/BradyFinalProject.app/blocks.png Resources/blocks.png
+cCpResource build/Debug-iphonesimulator/BradyFinalProject.app/fps_images.png Resources/fps_images.png
+cCpResource build/Debug-iphonesimulator/BradyFinalProject.app/Icon.png Resources/Icon.png
+cCpResource build/Debug-iphonesimulator/BradyFinalProject.app/Icon@2x.png Resources/Icon@2x.png
+cCpResource build/Debug-iphonesimulator/BradyFinalProject.app/Icon-Small@2x.png Resources/Icon-Small@2x.png
+cCpResource build/Debug-iphonesimulator/BradyFinalProject.app/Icon-Small.png Resources/Icon-Small.png
+cCpResource build/Debug-iphonesimulator/BradyFinalProject.app/Icon-Small-50.png Resources/Icon-Small-50.png
+cCpResource build/Debug-iphonesimulator/BradyFinalProject.app/Icon-72.png Resources/Icon-72.png
+cCpResource build/Debug-iphonesimulator/BradyFinalProject.app/iTunesArtwork Resources/iTunesArtwork
+cCpResource build/Debug-iphonesimulator/BradyFinalProject.app/level3.tmx Resources/level3.tmx
+cCpResource build/Debug-iphonesimulator/BradyFinalProject.app/level2.tmx Resources/level2.tmx
+cCpResource build/Debug-iphonesimulator/BradyFinalProject.app/level1.tmx Resources/level1.tmx
+cCpResource build/Debug-iphonesimulator/BradyFinalProject.app/world1level1.tmx Resources/world1level1.tmx
+cCpResource build/Debug-iphonesimulator/BradyFinalProject.app/smb-world-tiles.png Resources/smb-world-tiles.png
+cCpResource build/Debug-iphonesimulator/BradyFinalProject.app/sonic-tiles.png Resources/sonic-tiles.png
+cCpResource build/Debug-iphonesimulator/BradyFinalProject.app/block.png Resources/block.png
+cCpResource build/Debug-iphonesimulator/BradyFinalProject.app/mario.png Resources/mario.png
+cCpResource build/Debug-iphonesimulator/BradyFinalProject.app/help-background.png Resources/help-background.png
+cCpResource build/Debug-iphonesimulator/BradyFinalProject.app/main-background.png Resources/main-background.png
+cCpResource build/Debug-iphonesimulator/BradyFinalProject.app/mario1.png Resources/mario1.png
+cCpResource build/Debug-iphonesimulator/BradyFinalProject.app/mario2.png Resources/mario2.png
+cCpResource build/Debug-iphonesimulator/BradyFinalProject.app/Default.png Resources/Default.png
+cCpResource build/Debug-iphonesimulator/BradyFinalProject.app/mystery.png Resources/mystery.png
+cCpResource build/Debug-iphonesimulator/BradyFinalProject.app/main.tmx Resources/main.tmx
+cCpResource build/Debug-iphonesimulator/BradyFinalProject.app/help.tmx Resources/help.tmx
+cProcessPCH /var/folders/zT/zTE-Bmx9HFS26i1s9vCpB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BradyFinalProject_Prefix-fjgybcyzjlhnewhbumnioixfvuuo/BradyFinalProject_Prefix.pch.gch BradyFinalProject_Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cProcessPCH++ /var/folders/zT/zTE-Bmx9HFS26i1s9vCpB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BradyFinalProject_Prefix-dnbkfpffxepvapdtnprzzpadhoch/BradyFinalProject_Prefix.pch.gch BradyFinalProject_Prefix.pch normal i386 objective-c++ com.apple.compilers.llvmgcc42
+cCompileC build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/main.o /Users/Brady/Desktop/BradyFinalProject/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/BradyFinalProjectAppDelegate.o /Users/Brady/Desktop/BradyFinalProject/Classes/BradyFinalProjectAppDelegate.mm normal i386 objective-c++ com.apple.compilers.llvmgcc42
+cCompileC build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/GLES-Render.o /Users/Brady/Desktop/BradyFinalProject/Classes/GLES-Render.mm normal i386 objective-c++ com.apple.compilers.llvmgcc42
+cCompileC build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/RootViewController.o /Users/Brady/Desktop/BradyFinalProject/Classes/RootViewController.mm normal i386 objective-c++ com.apple.compilers.llvmgcc42
+cCompileC build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/MainMenuScene.o /Users/Brady/Desktop/BradyFinalProject/Classes/MainMenuScene.mm normal i386 objective-c++ com.apple.compilers.llvmgcc42
+cCompileC build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/World1Level1Scene.o /Users/Brady/Desktop/BradyFinalProject/Classes/World1Level1Scene.mm normal i386 objective-c++ com.apple.compilers.llvmgcc42
+cCompileC build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/HelpScene.o /Users/Brady/Desktop/BradyFinalProject/Classes/HelpScene.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/World1Level2Scene.o /Users/Brady/Desktop/BradyFinalProject/Classes/World1Level2Scene.mm normal i386 objective-c++ com.apple.compilers.llvmgcc42
+cCompileC build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/World1Level3Scene.o /Users/Brady/Desktop/BradyFinalProject/Classes/World1Level3Scene.mm normal i386 objective-c++ com.apple.compilers.llvmgcc42
+cLd /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/BradyFinalProject normal i386
+cGenerateDSYMFile /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app.dSYM /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/BradyFinalProject
+cTouch /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC1288A00000000000F34A0
+t1287727242
+s996512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC1224600000000001EA9C0
+t1287725638
+s2009536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+c000000004CC121DB00000000000022F0
+t1287725531
+s8944
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGImage.h
+c000000004CC121DB0000000000002650
+t1287725531
+s9808
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004CC1226400000000000246A0
+t1287725668
+s149152
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004CC12308000000000000094F
+t1287725832
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004CC123080000000000000A61
+t1287725832
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004CC123080000000000009369
+t1287725832
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004CC123080000000000003C4A
+t1287725832
+s15434
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004CC1230E0000000000019D40
+t1287725838
+s105792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/inttypes.h
+c000000004CB3E48600000000000027D1
+t1286857862
+s10193
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/objc/objc.h
+c000000004CB935700000000000000A2F
+t1287206256
+s2607
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stddef.h
+c000000004CB3E4860000000000001404
+t1286857862
+s5124
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdlib.h
+c000000004CB3E4860000000000002DF5
+t1286857862
+s11765
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/string.h
+c000000004CB3E4860000000000001731
+t1286857862
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/time.h
+c000000004CBFACAC0000000000001E17
+t1287629996
+s7703
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libz.dylib
+c000000004CC109C300000000000123B0
+t1287719363
+s74672
+
+N/Users/Brady/Desktop/BradyFinalProject/BradyFinalProject_Prefix.pch
+c000000004DBACB8B00000000000000C5
+t1304087435
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/Classes/BradyFinalProjectAppDelegate.h
+c000000004DBACB8A000000000000019B
+t1304087434
+s411
+i<UIKit/UIKit.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/Classes/BradyFinalProjectAppDelegate.mm
+c000000004DBAD83B00000000000011BC
+t1304090683
+s4540
+i"cocos2d.h"
+i"BradyFinalProjectAppDelegate.h"
+i"GameConfig.h"
+i"MainMenuScene.h"
+i"RootViewController.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/Classes/GLES-Render.h
+c000000004DBACB8A0000000000000867
+t1304087434
+s2151
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"Box2D.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/Classes/GLES-Render.mm
+c000000004DBACB8A0000000000001402
+t1304087434
+s5122
+i"GLES-Render.h"
+i<cstdio>
+i<cstdarg>
+i<cstring>
+
+N/Users/Brady/Desktop/BradyFinalProject/Classes/GameConfig.h
+c000000004DBACB8A000000000000022A
+t1304087434
+s554
+
+N/Users/Brady/Desktop/BradyFinalProject/Classes/HelpScene.h
+c000000004DC0A5280000000000000427
+t1304470824
+s1063
+i<UIKit/UIKit.h>
+i"cocos2d.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/Classes/HelpScene.m
+c000000004DC0A3860000000000000D17
+t1304470406
+s3351
+i"HelpScene.h"
+i"MainMenuScene.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/Classes/MainMenuScene.h
+c000000004DC0A52800000000000004AB
+t1304470824
+s1195
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/Classes/MainMenuScene.mm
+c000000004DC0A1C40000000000000A0C
+t1304469956
+s2572
+i"MainMenuScene.h"
+i"World1Level1Scene.h"
+i"World1Level2Scene.h"
+i"World1Level3Scene.h"
+i"HelpScene.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/Classes/RootViewController.h
+c000000004DC0A5280000000000000468
+t1304470824
+s1128
+i<UIKit/UIKit.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/Classes/RootViewController.mm
+c000000004DBACB8A0000000000001146
+t1304087434
+s4422
+i"cocos2d.h"
+i"RootViewController.h"
+i"GameConfig.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/Classes/World1Level1Scene.h
+c000000004DC0A52900000000000005C1
+t1304470825
+s1473
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+i"Box2D.h"
+i"GLES-Render.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/Classes/World1Level1Scene.mm
+c000000004DC0A5AD000000000000278C
+t1304470957
+s10124
+i"World1Level1Scene.h"
+i"MainMenuScene.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/Classes/World1Level2Scene.h
+c000000004DC0A5290000000000000642
+t1304470825
+s1602
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+i"Box2D.h"
+i"GLES-Render.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/Classes/World1Level2Scene.mm
+c000000004DC0A5AD00000000000029AB
+t1304470957
+s10667
+i"World1Level2Scene.h"
+i"MainMenuScene.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/Classes/World1Level3Scene.h
+c000000004DC0A5290000000000000631
+t1304470825
+s1585
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+i"Box2D.h"
+i"GLES-Render.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/Classes/World1Level3Scene.mm
+c000000004DC0A5AD0000000000002B89
+t1304470957
+s11145
+i"World1Level3Scene.h"
+i"MainMenuScene.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/Resources/Default.png
+c000000004DBF5770000000000001B0C3
+t1304385392
+s110787
+
+N/Users/Brady/Desktop/BradyFinalProject/Resources/Icon-72.png
+c000000004DBACB8B0000000000002C96
+t1304087435
+s11414
+
+N/Users/Brady/Desktop/BradyFinalProject/Resources/Icon-Small-50.png
+c000000004DBACB8B0000000000001F2B
+t1304087435
+s7979
+
+N/Users/Brady/Desktop/BradyFinalProject/Resources/Icon-Small.png
+c000000004DBACB8B000000000000135C
+t1304087435
+s4956
+
+N/Users/Brady/Desktop/BradyFinalProject/Resources/Icon-Small@2x.png
+c000000004DBACB8B00000000000024F9
+t1304087435
+s9465
+
+N/Users/Brady/Desktop/BradyFinalProject/Resources/Icon.png
+c000000004DBACB8B000000000000246F
+t1304087435
+s9327
+
+N/Users/Brady/Desktop/BradyFinalProject/Resources/Icon@2x.png
+c000000004DBACB8B0000000000005375
+t1304087435
+s21365
+
+N/Users/Brady/Desktop/BradyFinalProject/Resources/block.png
+c000000004DB4F3980000000000000BAE
+t1303704472
+s2990
+
+N/Users/Brady/Desktop/BradyFinalProject/Resources/blocks.png
+c000000004DBACB8B00000000000007D1
+t1304087435
+s2001
+
+N/Users/Brady/Desktop/BradyFinalProject/Resources/fps_images.png
+c000000004DBACB8B000000000000183B
+t1304087435
+s6203
+
+N/Users/Brady/Desktop/BradyFinalProject/Resources/help-background.png
+c000000004CE566460000000000010CE0
+t1290102342
+s68832
+
+N/Users/Brady/Desktop/BradyFinalProject/Resources/help.tmx
+c000000004DC09D8C0000000000000260
+t1304468876
+s608
+
+N/Users/Brady/Desktop/BradyFinalProject/Resources/iTunesArtwork
+c000000004DBACB8B000000000000F21E
+t1304087435
+s61982
+
+N/Users/Brady/Desktop/BradyFinalProject/Resources/level1.tmx
+c000000004DB1A40C0000000000000258
+t1303487500
+s600
+
+N/Users/Brady/Desktop/BradyFinalProject/Resources/level2.tmx
+c000000004DB4E9480000000000000268
+t1303701832
+s616
+
+N/Users/Brady/Desktop/BradyFinalProject/Resources/level3.tmx
+c000000004DB4EDDA0000000000000260
+t1303703002
+s608
+
+N/Users/Brady/Desktop/BradyFinalProject/Resources/main-background.png
+c000000004CE5664600000000000228C8
+t1290102342
+s141512
+
+N/Users/Brady/Desktop/BradyFinalProject/Resources/main.tmx
+c000000004DC09A580000000000000268
+t1304468056
+s616
+
+N/Users/Brady/Desktop/BradyFinalProject/Resources/mario.png
+c000000004CE59FEA00000000000002C8
+t1290117098
+s712
+
+N/Users/Brady/Desktop/BradyFinalProject/Resources/mario1.png
+c000000004CE5759400000000000002DE
+t1290106260
+s734
+
+N/Users/Brady/Desktop/BradyFinalProject/Resources/mario2.png
+c000000004CE57594000000000000029E
+t1290106260
+s670
+
+N/Users/Brady/Desktop/BradyFinalProject/Resources/mystery.png
+c000000004DC0826F0000000000015158
+t1304461935
+s86360
+
+N/Users/Brady/Desktop/BradyFinalProject/Resources/smb-world-tiles.png
+c000000004CE57FC20000000000002679
+t1290108866
+s9849
+
+N/Users/Brady/Desktop/BradyFinalProject/Resources/sonic-tiles.png
+c000000004DB4E141000000000000FC89
+t1303699777
+s64649
+
+N/Users/Brady/Desktop/BradyFinalProject/Resources/world1level1.tmx
+c000000004CE583E20000000000000366
+t1290109922
+s870
+
+N/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/BradyFinalProject.LinkFileList
+c000000004DC19EB70000000000000560
+t1304534711
+s1376
+
+N/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/BradyFinalProjectAppDelegate.o
+t1304534712
+s58680
+
+N/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/GLES-Render.o
+t1304534712
+s24828
+
+N/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/HelpScene.o
+t1304534712
+s18088
+
+N/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/MainMenuScene.o
+t1304534712
+s16408
+
+N/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/RootViewController.o
+t1304534712
+s42316
+
+N/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/World1Level1Scene.o
+t1304534712
+s114048
+
+N/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/World1Level2Scene.o
+t1304534712
+s114368
+
+N/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/World1Level3Scene.o
+t1304534712
+s116124
+
+N/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/main.o
+t1304534711
+s3216
+
+N/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app
+t1304534713
+s1020
+
+N/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app.dSYM
+t1304534713
+s102
+
+N/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/BradyFinalProject
+t1304534713
+s2037344
+
+N/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/Default.png
+t1304534711
+s110787
+
+N/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/Icon-72.png
+t1304534711
+s11414
+
+N/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/Icon-Small-50.png
+t1304534711
+s7979
+
+N/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/Icon-Small.png
+t1304534711
+s4956
+
+N/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/Icon-Small@2x.png
+t1304534711
+s9465
+
+N/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/Icon.png
+t1304534711
+s9327
+
+N/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/Icon@2x.png
+t1304534711
+s21365
+
+N/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/Info.plist
+t1304534711
+s866
+
+N/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/PkgInfo
+t1304534711
+s8
+
+N/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/block.png
+t1304534711
+s2990
+
+N/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/blocks.png
+t1304534711
+s2001
+
+N/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/fps_images.png
+t1304534711
+s6203
+
+N/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/help-background.png
+t1304534711
+s68832
+
+N/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/help.tmx
+t1304534711
+s608
+
+N/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/iTunesArtwork
+t1304534711
+s61982
+
+N/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/level1.tmx
+t1304534711
+s600
+
+N/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/level2.tmx
+t1304534711
+s616
+
+N/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/level3.tmx
+t1304534711
+s608
+
+N/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/main-background.png
+t1304534711
+s141512
+
+N/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/main.tmx
+t1304534711
+s616
+
+N/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/mario.png
+t1304534711
+s712
+
+N/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/mario1.png
+t1304534711
+s734
+
+N/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/mario2.png
+t1304534711
+s670
+
+N/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/mystery.png
+t1304534711
+s86360
+
+N/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/smb-world-tiles.png
+t1304534711
+s9849
+
+N/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/sonic-tiles.png
+t1304534711
+s64649
+
+N/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/world1level1.tmx
+t1304534711
+s870
+
+N/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/libcocos2d libraries.a
+c000000004DC19EB70000000000526E60
+t1304534711
+s5402208
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/Box2D/Box2D.h
+c000000004DBACB8B000000000000088B
+t1304087435
+s2187
+i<Box2D/Common/b2Settings.h>
+i<Box2D/Collision/Shapes/b2CircleShape.h>
+i<Box2D/Collision/Shapes/b2PolygonShape.h>
+i<Box2D/Collision/b2BroadPhase.h>
+i<Box2D/Collision/b2Distance.h>
+i<Box2D/Collision/b2DynamicTree.h>
+i<Box2D/Collision/b2TimeOfImpact.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2Fixture.h>
+i<Box2D/Dynamics/b2WorldCallbacks.h>
+i<Box2D/Dynamics/b2TimeStep.h>
+i<Box2D/Dynamics/b2World.h>
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+i<Box2D/Dynamics/Joints/b2DistanceJoint.h>
+i<Box2D/Dynamics/Joints/b2FrictionJoint.h>
+i<Box2D/Dynamics/Joints/b2GearJoint.h>
+i<Box2D/Dynamics/Joints/b2LineJoint.h>
+i<Box2D/Dynamics/Joints/b2MouseJoint.h>
+i<Box2D/Dynamics/Joints/b2PrismaticJoint.h>
+i<Box2D/Dynamics/Joints/b2PulleyJoint.h>
+i<Box2D/Dynamics/Joints/b2RevoluteJoint.h>
+i<Box2D/Dynamics/Joints/b2WeldJoint.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/Box2D/Collision/Shapes/b2CircleShape.h
+c000000004DBACB8B0000000000000982
+t1304087435
+s2434
+i<Box2D/Collision/Shapes/b2Shape.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/Box2D/Collision/Shapes/b2PolygonShape.h
+c000000004DBACB8B0000000000000F38
+t1304087435
+s3896
+i<Box2D/Collision/Shapes/b2Shape.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/Box2D/Collision/Shapes/b2Shape.h
+c000000004DBACB8B0000000000000CB9
+t1304087435
+s3257
+i<Box2D/Common/b2BlockAllocator.h>
+i<Box2D/Common/b2Math.h>
+i<Box2D/Collision/b2Collision.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/Box2D/Collision/b2BroadPhase.h
+c000000004DBACB8B0000000000001843
+t1304087435
+s6211
+i<Box2D/Common/b2Settings.h>
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/b2DynamicTree.h>
+i<algorithm>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/Box2D/Collision/b2Collision.h
+c000000004DBACB8B0000000000001FA1
+t1304087435
+s8097
+i<Box2D/Common/b2Math.h>
+i<climits>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/Box2D/Collision/b2Distance.h
+c000000004DBACB8B0000000000000EB5
+t1304087435
+s3765
+i<Box2D/Common/b2Math.h>
+i<climits>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/Box2D/Collision/b2DynamicTree.h
+c000000004DBACB8B0000000000001C14
+t1304087435
+s7188
+i<Box2D/Collision/b2Collision.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/Box2D/Collision/b2TimeOfImpact.h
+c000000004DBACB8B000000000000075D
+t1304087435
+s1885
+i<Box2D/Common/b2Math.h>
+i<Box2D/Collision/b2Distance.h>
+i<climits>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/Box2D/Common/b2BlockAllocator.h
+c000000004DBACB8B00000000000006F3
+t1304087435
+s1779
+i<Box2D/Common/b2Settings.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/Box2D/Common/b2Math.h
+c000000004DBACB8B00000000000038D1
+t1304087435
+s14545
+i<Box2D/Common/b2Settings.h>
+i<cmath>
+i<cfloat>
+i<cstddef>
+i<limits>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/Box2D/Common/b2Settings.h
+c000000004DBACB8B000000000000149D
+t1304087435
+s5277
+i<cassert>
+i<cmath>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/Box2D/Common/b2StackAllocator.h
+c000000004DBACB8B000000000000068B
+t1304087435
+s1675
+i<Box2D/Common/b2Settings.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/Box2D/Dynamics/Contacts/b2Contact.h
+c000000004DBACB8B0000000000001A04
+t1304087435
+s6660
+i<Box2D/Common/b2Math.h>
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/Shapes/b2Shape.h>
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+i<Box2D/Dynamics/b2Fixture.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/Box2D/Dynamics/Joints/b2DistanceJoint.h
+c000000004DBACB8B0000000000000EFD
+t1304087435
+s3837
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/Box2D/Dynamics/Joints/b2FrictionJoint.h
+c000000004DBACB8B0000000000000AD5
+t1304087435
+s2773
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/Box2D/Dynamics/Joints/b2GearJoint.h
+c000000004DBACB8B0000000000000C75
+t1304087435
+s3189
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/Box2D/Dynamics/Joints/b2Joint.h
+c000000004DBACB8B00000000000015B0
+t1304087435
+s5552
+i<Box2D/Common/b2Math.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/Box2D/Dynamics/Joints/b2LineJoint.h
+c000000004DBACB8B0000000000001367
+t1304087435
+s4967
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/Box2D/Dynamics/Joints/b2MouseJoint.h
+c000000004DBACB8B0000000000000D77
+t1304087435
+s3447
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/Box2D/Dynamics/Joints/b2PrismaticJoint.h
+c000000004DBACB8B0000000000001475
+t1304087435
+s5237
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/Box2D/Dynamics/Joints/b2PulleyJoint.h
+c000000004DBACB8B00000000000010B4
+t1304087435
+s4276
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/Box2D/Dynamics/Joints/b2RevoluteJoint.h
+c000000004DBACB8B00000000000014C0
+t1304087435
+s5312
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/Box2D/Dynamics/Joints/b2WeldJoint.h
+c000000004DBACB8B00000000000009D7
+t1304087435
+s2519
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/Box2D/Dynamics/b2Body.h
+c000000004DBACB8B0000000000005283
+t1304087435
+s21123
+i<Box2D/Common/b2Math.h>
+i<Box2D/Collision/Shapes/b2Shape.h>
+i<memory>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/Box2D/Dynamics/b2ContactManager.h
+c000000004DBACB8B0000000000000603
+t1304087435
+s1539
+i<Box2D/Collision/b2BroadPhase.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/Box2D/Dynamics/b2Fixture.h
+c000000004DBACB8B000000000000218D
+t1304087435
+s8589
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/Shapes/b2Shape.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/Box2D/Dynamics/b2TimeStep.h
+c000000004DBACB8B00000000000004DB
+t1304087435
+s1243
+i<Box2D/Common/b2Settings.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/Box2D/Dynamics/b2World.h
+c000000004DBACB8B0000000000002229
+t1304087435
+s8745
+i<Box2D/Common/b2Math.h>
+i<Box2D/Common/b2BlockAllocator.h>
+i<Box2D/Common/b2StackAllocator.h>
+i<Box2D/Dynamics/b2ContactManager.h>
+i<Box2D/Dynamics/b2WorldCallbacks.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/Box2D/Dynamics/b2WorldCallbacks.h
+c000000004DBACB8B0000000000001E03
+t1304087435
+s7683
+i<Box2D/Common/b2Settings.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCAction.h
+c000000004DBACB8B000000000000167A
+t1304087435
+s5754
+i<sys/time.h>
+i<Foundation/Foundation.h>
+i"ccTypes.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCActionCamera.h
+c000000004DBACB8B00000000000009BC
+t1304087435
+s2492
+i"CCActionInterval.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCActionEase.h
+c000000004DBACB8B0000000000001671
+t1304087435
+s5745
+i"CCActionInterval.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCActionGrid.h
+c000000004DBACB8B000000000000148B
+t1304087435
+s5259
+i"CCActionInterval.h"
+i"CCActionInstant.h"
+i"CCGrid.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCActionGrid3D.h
+c000000004DBACB8B0000000000001A8A
+t1304087435
+s6794
+i"CCActionGrid.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCActionInstant.h
+c000000004DBACB8B00000000000013AA
+t1304087435
+s5034
+i"CCAction.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCActionInterval.h
+c000000004DBACB8B0000000000003265
+t1304087435
+s12901
+i"CCNode.h"
+i"CCAction.h"
+i"CCProtocols.h"
+i<sys/time.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCActionManager.h
+c000000004DBACB8B0000000000001071
+t1304087435
+s4209
+i"CCAction.h"
+i"Support/ccCArray.h"
+i"Support/uthash.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCActionPageTurn3D.h
+c000000004DBACB8B0000000000000644
+t1304087435
+s1604
+i"CCActionGrid3D.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCActionProgressTimer.h
+c000000004DBACB8B000000000000088D
+t1304087435
+s2189
+i<Foundation/Foundation.h>
+i"CCProgressTimer.h"
+i"CCActionInterval.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCActionTiledGrid.h
+c000000004DBACB8B0000000000001A15
+t1304087435
+s6677
+i"CCActionGrid.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCActionTween.h
+c000000004DBACB8B0000000000000931
+t1304087435
+s2353
+i<Foundation/Foundation.h>
+i"CCActionInterval.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCAnimation.h
+c000000004DBACB8B000000000000126D
+t1304087435
+s4717
+i<Foundation/Foundation.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCAnimationCache.h
+c000000004DBACB8B00000000000008DD
+t1304087435
+s2269
+i<Foundation/Foundation.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCAtlasNode.h
+c000000004DBACB8B0000000000000C06
+t1304087435
+s3078
+i"CCTextureAtlas.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCBlockSupport.h
+c000000004DBACB8B000000000000066F
+t1304087435
+s1647
+i<Foundation/Foundation.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCCamera.h
+c000000004DBACB8B0000000000000C84
+t1304087435
+s3204
+i"CCNode.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCCompatibility.h
+c000000004DBACB8B0000000000003891
+t1304087435
+s14481
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCConfiguration.h
+c000000004DBACB8B0000000000000D36
+t1304087435
+s3382
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCDirector.h
+c000000004DBACB8B00000000000025C4
+t1304087435
+s9668
+i"ccConfig.h"
+i"ccTypes.h"
+i"Platforms/CCGL.h"
+i"CCProtocols.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCDrawingPrimitives.h
+c000000004DBACB8B0000000000000C32
+t1304087435
+s3122
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<CoreGraphics/CGGeometry.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCGrabber.h
+c000000004DBACB8B00000000000005E4
+t1304087435
+s1508
+i"Platforms/CCGL.h"
+i<Foundation/Foundation.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCGrid.h
+c000000004DBACB8B0000000000000E5A
+t1304087435
+s3674
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCCamera.h"
+i"ccTypes.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCLabelAtlas.h
+c000000004DBACB8B0000000000000B24
+t1304087435
+s2852
+i"CCAtlasNode.h"
+i"CCTextureAtlas.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCLabelBMFont.h
+c000000004DBACB8B0000000000001641
+t1304087435
+s5697
+i"CCSpriteBatchNode.h"
+i"Support/uthash.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCLabelTTF.h
+c000000004DBACB8B0000000000000A87
+t1304087435
+s2695
+i"CCTexture2D.h"
+i"CCSprite.h"
+i"Platforms/CCNS.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCLayer.h
+c000000004DBACB8B00000000000020E9
+t1304087435
+s8425
+i<Availability.h>
+i<UIKit/UIKit.h>
+i"Platforms/iOS/CCTouchDelegateProtocol.h"
+i"Platforms/Mac/CCEventDispatcher.h"
+i"CCProtocols.h"
+i"CCNode.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCMenu.h
+c000000004DBACB8B0000000000000B29
+t1304087435
+s2857
+i"CCMenuItem.h"
+i"CCLayer.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCMenuItem.h
+c000000004DBACB8B00000000000033A8
+t1304087435
+s13224
+i"CCBlockSupport.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCMotionStreak.h
+c000000004DBACB8B0000000000000B2A
+t1304087435
+s2858
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCRibbon.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCNode.h
+c000000004DBACB8B0000000000004485
+t1304087435
+s17541
+i<Availability.h>
+i"Platforms/CCGL.h"
+i"CCAction.h"
+i"ccTypes.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i"ccConfig.h"
+i"Support/CCArray.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCParallaxNode.h
+c000000004DBACB8B000000000000075D
+t1304087435
+s1885
+i"CCNode.h"
+i"Support/ccCArray.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCParticleExamples.h
+c000000004DBACB8B0000000000000AD0
+t1304087435
+s2768
+i<Availability.h>
+i"CCParticleSystemPoint.h"
+i"CCParticleSystemQuad.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCParticleSystem.h
+c000000004DBACB8B00000000000037B8
+t1304087435
+s14264
+i"CCProtocols.h"
+i"CCNode.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCParticleSystemPoint.h
+c000000004DBACB8B0000000000000846
+t1304087435
+s2118
+i<Availability.h>
+i"CCParticleSystem.h"
+i"CCParticleSystemQuad.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCParticleSystemQuad.h
+c000000004DBACB8B00000000000009F8
+t1304087435
+s2552
+i"CCParticleSystem.h"
+i"ccConfig.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCProgressTimer.h
+c000000004DBACB8B0000000000000B48
+t1304087435
+s2888
+i<Foundation/Foundation.h>
+i"CCSprite.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCProtocols.h
+c000000004DBACB8B0000000000000F9A
+t1304087435
+s3994
+i"ccTypes.h"
+i"CCTexture2D.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCRenderTexture.h
+c000000004DBACB8B0000000000000F2A
+t1304087435
+s3882
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCSprite.h"
+i"Support/OpenGL_Internal.h"
+i<Availability.h>
+i<UIKit/UIKit.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCRibbon.h
+c000000004DBACB8B0000000000000FCD
+t1304087435
+s4045
+i"CCNode.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i"Platforms/CCGL.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCScene.h
+c000000004DBACB8B0000000000000676
+t1304087435
+s1654
+i"CCNode.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCScheduler.h
+c000000004DBACB8B00000000000019D7
+t1304087435
+s6615
+i"Support/uthash.h"
+i"ccTypes.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCSprite.h
+c000000004DBACB8B000000000000345C
+t1304087435
+s13404
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCSpriteBatchNode.h
+c000000004DBACB8B00000000000018F8
+t1304087435
+s6392
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+i"ccMacros.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCSpriteFrame.h
+c000000004DBACB8B0000000000000D5A
+t1304087435
+s3418
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCSpriteFrameCache.h
+c000000004DBACB8B0000000000001394
+t1304087435
+s5012
+i<Foundation/Foundation.h>
+i"CCSpriteFrame.h"
+i"CCTexture2D.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCSpriteSheet.h
+c000000004DBACB8B00000000000009FE
+t1304087435
+s2558
+i"CCSpriteBatchNode.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCTMXLayer.h
+c000000004DBACB8B000000000000182A
+t1304087435
+s6186
+i"CCAtlasNode.h"
+i"CCSpriteBatchNode.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCTMXObjectGroup.h
+c000000004DBACB8B00000000000008D5
+t1304087435
+s2261
+i"CCSpriteSheet.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCTMXTiledMap.h
+c000000004DBACB8B00000000000014D4
+t1304087435
+s5332
+i"CCSpriteSheet.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCTMXXMLParser.h
+c000000004DBACB8B00000000000016B9
+t1304087435
+s5817
+i<Availability.h>
+i<Foundation/Foundation.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCTexture2D.h
+c000000004DBACB8B0000000000002C9A
+t1304087435
+s11418
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+i"Platforms/CCNS.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCTextureAtlas.h
+c000000004DBACB8B000000000000145B
+t1304087435
+s5211
+i"CCTexture2D.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCTextureCache.h
+c000000004DBACB8B00000000000014C2
+t1304087435
+s5314
+i<Availability.h>
+i<CoreGraphics/CGImage.h>
+i<Foundation/Foundation.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCTexturePVR.h
+c000000004DBACB8B0000000000000FB9
+t1304087435
+s4025
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+i"CCTextureCache.h"
+i"CCTexture2D.h"
+i"ccCArray.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCTileMapAtlas.h
+c000000004DBACB8B0000000000000B86
+t1304087435
+s2950
+i"CCTextureAtlas.h"
+i"CCAtlasNode.h"
+i"Support/TGAlib.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCTransition.h
+c000000004DBACB8B0000000000002134
+t1304087435
+s8500
+i"CCScene.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCTransitionPageTurn.h
+c000000004DBACB8B0000000000000917
+t1304087435
+s2327
+i"CCTransition.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCTransitionRadial.h
+c000000004DBACB8C0000000000000630
+t1304087436
+s1584
+i"CCTransition.h"
+i"CCProgressTimer.h"
+i"CCActionProgressTimer.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/Platforms/CCGL.h
+c000000004DBACB8C0000000000000BF8
+t1304087436
+s3064
+i<Availability.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<OpenGLES/EAGL.h>
+i"iOS/glu.h"
+i"iOS/EAGLView.h"
+i<OpenGL/gl.h>
+i<OpenGL/glu.h>
+i<Cocoa/Cocoa.h>
+i"Mac/MacGLView.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/Platforms/CCNS.h
+c000000004DBACB8C0000000000000965
+t1304087436
+s2405
+i<Availability.h>
+i<Foundation/Foundation.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/Platforms/Mac/CCDirectorMac.h
+c000000004DBACB8C0000000000000C84
+t1304087436
+s3204
+i<Availability.h>
+i<QuartzCore/CVDisplayLink.h>
+i"../../CCDirector.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/Platforms/Mac/CCEventDispatcher.h
+c000000004DBACB8C0000000000001AA7
+t1304087436
+s6823
+i<Availability.h>
+i<Cocoa/Cocoa.h>
+i"MacGLView.h"
+i"../../Support/uthash.h"
+i"../../Support/utlist.h"
+i"../../ccConfig.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/Platforms/Mac/MacGLView.h
+c000000004DBACB8C0000000000000B8C
+t1304087436
+s2956
+i<Availability.h>
+i<Cocoa/Cocoa.h>
+i"../../ccConfig.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/Platforms/iOS/CCDirectorIOS.h
+c000000004DBACB8C0000000000002B53
+t1304087436
+s11091
+i<Availability.h>
+i"../../CCDirector.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/Platforms/iOS/CCTouchDelegateProtocol.h
+c000000004DBACB8C0000000000000BC3
+t1304087436
+s3011
+i<Availability.h>
+i<UIKit/UIKit.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/Platforms/iOS/CCTouchDispatcher.h
+c000000004DBACB8C00000000000010CA
+t1304087436
+s4298
+i<Availability.h>
+i"CCTouchDelegateProtocol.h"
+i"EAGLView.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/Platforms/iOS/CCTouchHandler.h
+c000000004DBACB8C0000000000000D99
+t1304087436
+s3481
+i<Availability.h>
+i"CCTouchDelegateProtocol.h"
+i"CCTouchDispatcher.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/Platforms/iOS/EAGLView.h
+c000000004DBACB8C0000000000001B69
+t1304087436
+s7017
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"ESRenderer.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/Platforms/iOS/ESRenderer.h
+c000000004DBACB8C000000000000083A
+t1304087436
+s2106
+i<Availability.h>
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/Platforms/iOS/glu.h
+c000000004DBACB8C000000000000030D
+t1304087436
+s781
+i<Availability.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/Support/CCArray.h
+c000000004DBACB8C0000000000000BED
+t1304087436
+s3053
+i"ccCArray.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/Support/CCFileUtils.h
+c000000004DBACB8C00000000000007E8
+t1304087436
+s2024
+i<Foundation/Foundation.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/Support/CCProfiling.h
+c000000004DBACB8C00000000000006E9
+t1304087436
+s1769
+i<Foundation/Foundation.h>
+i<sys/time.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/Support/CGPointExtension.h
+c000000004DBACB8C0000000000001EAB
+t1304087436
+s7851
+i<Availability.h>
+i<CoreGraphics/CGGeometry.h>
+i<Foundation/Foundation.h>
+i<math.h>
+i<objc/objc.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/Support/OpenGL_Internal.h
+c000000004DBACB8C00000000000011A7
+t1304087436
+s4519
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/Support/TGAlib.h
+c000000004DBACB8C0000000000000444
+t1304087436
+s1092
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/Support/ccCArray.h
+c000000004DBACB8C00000000000030F3
+t1304087436
+s12531
+i<Foundation/Foundation.h>
+i<stdlib.h>
+i<string.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/Support/ccUtils.h
+c000000004DBACB8C0000000000000204
+t1304087436
+s516
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/Support/uthash.h
+c000000004DBACB8C000000000000FB13
+t1304087436
+s64275
+i<string.h>
+i<stddef.h>
+i<inttypes.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/Support/utlist.h
+c000000004DBACB8C0000000000009091
+t1304087436
+s37009
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/ccConfig.h
+c000000004DBACB8C0000000000002896
+t1304087436
+s10390
+i<Availability.h>
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/ccMacros.h
+c000000004DBACB8C0000000000001DFE
+t1304087436
+s7678
+i<math.h>
+i"ccConfig.h"
+i<Foundation/Foundation.h>
+i<Availability.h>
+i"Platforms/iOS/CCDirectorIOS.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/ccTypes.h
+c000000004DBACB8C00000000000016D2
+t1304087436
+s5842
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<CoreGraphics/CGGeometry.h>
+i"Platforms/CCGL.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/cocos2d.h
+c000000004DBACB8C00000000000010FF
+t1304087436
+s4351
+i<Availability.h>
+i"ccConfig.h"
+i"CCActionManager.h"
+i"CCAction.h"
+i"CCActionInstant.h"
+i"CCActionInterval.h"
+i"CCActionEase.h"
+i"CCActionCamera.h"
+i"CCActionTween.h"
+i"CCActionEase.h"
+i"CCActionTiledGrid.h"
+i"CCActionGrid3D.h"
+i"CCActionGrid.h"
+i"CCActionProgressTimer.h"
+i"CCActionPageTurn3D.h"
+i"CCAnimation.h"
+i"CCAnimationCache.h"
+i"CCSprite.h"
+i"CCSpriteFrame.h"
+i"CCSpriteSheet.h"
+i"CCSpriteBatchNode.h"
+i"CCSpriteFrameCache.h"
+i"CCLabelTTF.h"
+i"CCLabelBMFont.h"
+i"CCLabelAtlas.h"
+i"CCParticleSystem.h"
+i"CCParticleSystemPoint.h"
+i"CCParticleSystemQuad.h"
+i"CCParticleExamples.h"
+i"CCTexture2D.h"
+i"CCTexturePVR.h"
+i"CCTextureCache.h"
+i"CCTextureAtlas.h"
+i"CCTransition.h"
+i"CCTransitionPageTurn.h"
+i"CCTransitionRadial.h"
+i"CCTMXTiledMap.h"
+i"CCTMXLayer.h"
+i"CCTMXObjectGroup.h"
+i"CCTMXXMLParser.h"
+i"CCTileMapAtlas.h"
+i"CCLayer.h"
+i"CCMenu.h"
+i"CCMenuItem.h"
+i"CCDrawingPrimitives.h"
+i"CCScene.h"
+i"CCScheduler.h"
+i"CCBlockSupport.h"
+i"CCCamera.h"
+i"CCProtocols.h"
+i"CCNode.h"
+i"CCDirector.h"
+i"CCAtlasNode.h"
+i"CCGrabber.h"
+i"CCGrid.h"
+i"CCParallaxNode.h"
+i"CCRenderTexture.h"
+i"CCMotionStreak.h"
+i"CCConfiguration.h"
+i"ccTypes.h"
+i"ccMacros.h"
+i"Platforms/CCGL.h"
+i"Platforms/CCNS.h"
+i"Platforms/iOS/CCTouchDispatcher.h"
+i"Platforms/iOS/CCTouchDelegateProtocol.h"
+i"Platforms/iOS/CCTouchHandler.h"
+i"Platforms/iOS/EAGLView.h"
+i"Platforms/iOS/CCDirectorIOS.h"
+i"Platforms/Mac/MacGLView.h"
+i"Platforms/Mac/CCDirectorMac.h"
+i"Support/OpenGL_Internal.h"
+i"Support/CCFileUtils.h"
+i"Support/CGPointExtension.h"
+i"Support/ccCArray.h"
+i"Support/CCArray.h"
+i"Support/ccUtils.h"
+i"Support/CCProfiling.h"
+i"CCCompatibility.h"
+
+N/Users/Brady/Desktop/BradyFinalProject/main.m
+c000000004DBACB8C0000000000000174
+t1304087436
+s372
+i<UIKit/UIKit.h>
+
+N/var/folders/zT/zTE-Bmx9HFS26i1s9vCpB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BradyFinalProject_Prefix-dnbkfpffxepvapdtnprzzpadhoch/BradyFinalProject_Prefix.pch.gch
+t1304087662
+s13044816
+
+N/var/folders/zT/zTE-Bmx9HFS26i1s9vCpB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BradyFinalProject_Prefix-fjgybcyzjlhnewhbumnioixfvuuo/BradyFinalProject_Prefix.pch.gch
+t1304087662
+s11971792
+
+NResources/Info.plist
+c000000004DBACB8B0000000000000515
+t1304087435
+s1301
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies326227511#326227511#0(0"0(0#1#0"8636421184#0"0#
+
+CCompileC build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/BradyFinalProjectAppDelegate.o /Users/Brady/Desktop/BradyFinalProject/Classes/BradyFinalProjectAppDelegate.mm normal i386 objective-c++ com.apple.compilers.llvmgcc42
+s326227511.852661
+e326227512.115404
+r1
+xCompileC
+xbuild/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/BradyFinalProjectAppDelegate.o
+x/Users/Brady/Desktop/BradyFinalProject/Classes/BradyFinalProjectAppDelegate.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@86"Compile /Users/Brady/Desktop/BradyFinalProject/Classes/BradyFinalProjectAppDelegate.mm326227511#326227512#0(0"0(0#0#78"/Users/Brady/Desktop/BradyFinalProject/Classes/BradyFinalProjectAppDelegate.mm8612432512#1861"    cd /Users/Brady/Desktop/BradyFinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -I/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/BradyFinalProject.hmap -Wall -F/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator -I/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/include -Ilibs -I/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/DerivedSources/i386 -I/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/DerivedSources -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/zT/zTE-Bmx9HFS26i1s9vCpB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BradyFinalProject_Prefix-dnbkfpffxepvapdtnprzzpadhoch/BradyFinalProject_Prefix.pch -c /Users/Brady/Desktop/BradyFinalProject/Classes/BradyFinalProjectAppDelegate.mm -o /Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/BradyFinalProjectAppDelegate.o0#
+
+CCompileC build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/GLES-Render.o /Users/Brady/Desktop/BradyFinalProject/Classes/GLES-Render.mm normal i386 objective-c++ com.apple.compilers.llvmgcc42
+s326227511.853654
+e326227512.336956
+r1
+xCompileC
+xbuild/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/GLES-Render.o
+x/Users/Brady/Desktop/BradyFinalProject/Classes/GLES-Render.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@69"Compile /Users/Brady/Desktop/BradyFinalProject/Classes/GLES-Render.mm326227511#326227512#0(0"0(0#0#61"/Users/Brady/Desktop/BradyFinalProject/Classes/GLES-Render.mm8611688320#1827"    cd /Users/Brady/Desktop/BradyFinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -I/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/BradyFinalProject.hmap -Wall -F/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator -I/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/include -Ilibs -I/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/DerivedSources/i386 -I/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/DerivedSources -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/zT/zTE-Bmx9HFS26i1s9vCpB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BradyFinalProject_Prefix-dnbkfpffxepvapdtnprzzpadhoch/BradyFinalProject_Prefix.pch -c /Users/Brady/Desktop/BradyFinalProject/Classes/GLES-Render.mm -o /Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/GLES-Render.o0#
+
+CCompileC build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/HelpScene.o /Users/Brady/Desktop/BradyFinalProject/Classes/HelpScene.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s326227512.115549
+e326227512.323130
+r1
+xCompileC
+xbuild/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/HelpScene.o
+x/Users/Brady/Desktop/BradyFinalProject/Classes/HelpScene.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@66"Compile /Users/Brady/Desktop/BradyFinalProject/Classes/HelpScene.m326227512#326227512#0(0"0(0#0#58"/Users/Brady/Desktop/BradyFinalProject/Classes/HelpScene.m8619443968#1801"    cd /Users/Brady/Desktop/BradyFinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -I/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/BradyFinalProject.hmap -Wall -F/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator -I/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/include -Ilibs -I/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/DerivedSources/i386 -I/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/DerivedSources -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/zT/zTE-Bmx9HFS26i1s9vCpB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BradyFinalProject_Prefix-fjgybcyzjlhnewhbumnioixfvuuo/BradyFinalProject_Prefix.pch -c /Users/Brady/Desktop/BradyFinalProject/Classes/HelpScene.m -o /Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/HelpScene.o0#
+
+CCompileC build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/MainMenuScene.o /Users/Brady/Desktop/BradyFinalProject/Classes/MainMenuScene.mm normal i386 objective-c++ com.apple.compilers.llvmgcc42
+s326227511.923172
+e326227512.435114
+r1
+xCompileC
+xbuild/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/MainMenuScene.o
+x/Users/Brady/Desktop/BradyFinalProject/Classes/MainMenuScene.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@71"Compile /Users/Brady/Desktop/BradyFinalProject/Classes/MainMenuScene.mm326227511#326227512#0(0"0(0#0#63"/Users/Brady/Desktop/BradyFinalProject/Classes/MainMenuScene.mm8609809024#1831"    cd /Users/Brady/Desktop/BradyFinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -I/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/BradyFinalProject.hmap -Wall -F/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator -I/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/include -Ilibs -I/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/DerivedSources/i386 -I/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/DerivedSources -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/zT/zTE-Bmx9HFS26i1s9vCpB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BradyFinalProject_Prefix-dnbkfpffxepvapdtnprzzpadhoch/BradyFinalProject_Prefix.pch -c /Users/Brady/Desktop/BradyFinalProject/Classes/MainMenuScene.mm -o /Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/MainMenuScene.o0#
+
+CCompileC build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/RootViewController.o /Users/Brady/Desktop/BradyFinalProject/Classes/RootViewController.mm normal i386 objective-c++ com.apple.compilers.llvmgcc42
+s326227511.854963
+e326227512.103996
+r1
+xCompileC
+xbuild/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/RootViewController.o
+x/Users/Brady/Desktop/BradyFinalProject/Classes/RootViewController.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@76"Compile /Users/Brady/Desktop/BradyFinalProject/Classes/RootViewController.mm326227511#326227512#0(0"0(0#0#68"/Users/Brady/Desktop/BradyFinalProject/Classes/RootViewController.mm8611251936#1841"    cd /Users/Brady/Desktop/BradyFinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -I/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/BradyFinalProject.hmap -Wall -F/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator -I/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/include -Ilibs -I/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/DerivedSources/i386 -I/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/DerivedSources -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/zT/zTE-Bmx9HFS26i1s9vCpB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BradyFinalProject_Prefix-dnbkfpffxepvapdtnprzzpadhoch/BradyFinalProject_Prefix.pch -c /Users/Brady/Desktop/BradyFinalProject/Classes/RootViewController.mm -o /Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/World1Level1Scene.o /Users/Brady/Desktop/BradyFinalProject/Classes/World1Level1Scene.mm normal i386 objective-c++ com.apple.compilers.llvmgcc42
+s326227512.104138
+e326227512.651268
+r1
+xCompileC
+xbuild/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/World1Level1Scene.o
+x/Users/Brady/Desktop/BradyFinalProject/Classes/World1Level1Scene.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvmgcc42
+o/Users/Brady/Desktop/BradyFinalProject/Classes/World1Level1Scene.mm: In function 'BOOL -[World1Level1Layer ccTouchBegan:withEvent:](World1Level1Layer*, objc_selector*, UITouch*, UIEvent*)':
+o/Users/Brady/Desktop/BradyFinalProject/Classes/World1Level1Scene.mm:343: warning: 'animationWithName:delay:' is deprecated (declared at /Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCAnimation.h:81)
+lSLF07#2@75"Compile /Users/Brady/Desktop/BradyFinalProject/Classes/World1Level1Scene.mm326227512#326227512#0(396"/Users/Brady/Desktop/BradyFinalProject/Classes/World1Level1Scene.mm: In function 'BOOL -[World1Level1Layer ccTouchBegan:withEvent:](World1Level1Layer*, objc_selector*, UITouch*, UIEvent*)':/Users/Brady/Desktop/BradyFinalProject/Classes/World1Level1Scene.mm:343: warning: 'animationWithName:delay:' is deprecated (declared at /Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCAnimation.h:81)1(22@123"'animationWithName:delay:' is deprecated (declared at /Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCAnimation.h:81)326227512#190#206#0(6@67"/Users/Brady/Desktop/BradyFinalProject/Classes/World1Level1Scene.mm326163757#343#0#343#0#33"'*' is deprecated (declared at *)0(0#0#67"/Users/Brady/Desktop/BradyFinalProject/Classes/World1Level1Scene.mm8621445664#1839"    cd /Users/Brady/Desktop/BradyFinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -I/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/BradyFinalProject.hmap -Wall -F/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator -I/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/include -Ilibs -I/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/DerivedSources/i386 -I/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/DerivedSources -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/zT/zTE-Bmx9HFS26i1s9vCpB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BradyFinalProject_Prefix-dnbkfpffxepvapdtnprzzpadhoch/BradyFinalProject_Prefix.pch -c /Users/Brady/Desktop/BradyFinalProject/Classes/World1Level1Scene.mm -o /Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/World1Level1Scene.o0#
+
+CCompileC build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/World1Level2Scene.o /Users/Brady/Desktop/BradyFinalProject/Classes/World1Level2Scene.mm normal i386 objective-c++ com.apple.compilers.llvmgcc42
+s326227512.323293
+e326227512.860982
+r1
+xCompileC
+xbuild/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/World1Level2Scene.o
+x/Users/Brady/Desktop/BradyFinalProject/Classes/World1Level2Scene.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvmgcc42
+o/Users/Brady/Desktop/BradyFinalProject/Classes/World1Level2Scene.mm: In function 'BOOL -[World1Level2Layer ccTouchBegan:withEvent:](World1Level2Layer*, objc_selector*, UITouch*, UIEvent*)':
+o/Users/Brady/Desktop/BradyFinalProject/Classes/World1Level2Scene.mm:359: warning: 'animationWithName:delay:' is deprecated (declared at /Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCAnimation.h:81)
+lSLF07#2@75"Compile /Users/Brady/Desktop/BradyFinalProject/Classes/World1Level2Scene.mm326227512#326227512#0(396"/Users/Brady/Desktop/BradyFinalProject/Classes/World1Level2Scene.mm: In function 'BOOL -[World1Level2Layer ccTouchBegan:withEvent:](World1Level2Layer*, objc_selector*, UITouch*, UIEvent*)':/Users/Brady/Desktop/BradyFinalProject/Classes/World1Level2Scene.mm:359: warning: 'animationWithName:delay:' is deprecated (declared at /Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCAnimation.h:81)1(22@123"'animationWithName:delay:' is deprecated (declared at /Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCAnimation.h:81)326227512#190#206#0(6@67"/Users/Brady/Desktop/BradyFinalProject/Classes/World1Level2Scene.mm326163757#359#0#359#0#33"'*' is deprecated (declared at *)0(0#0#67"/Users/Brady/Desktop/BradyFinalProject/Classes/World1Level2Scene.mm8613320640#1839"    cd /Users/Brady/Desktop/BradyFinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -I/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/BradyFinalProject.hmap -Wall -F/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator -I/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/include -Ilibs -I/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/DerivedSources/i386 -I/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/DerivedSources -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/zT/zTE-Bmx9HFS26i1s9vCpB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BradyFinalProject_Prefix-dnbkfpffxepvapdtnprzzpadhoch/BradyFinalProject_Prefix.pch -c /Users/Brady/Desktop/BradyFinalProject/Classes/World1Level2Scene.mm -o /Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/World1Level2Scene.o0#
+
+CCompileC build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/World1Level3Scene.o /Users/Brady/Desktop/BradyFinalProject/Classes/World1Level3Scene.mm normal i386 objective-c++ com.apple.compilers.llvmgcc42
+s326227512.337128
+e326227512.816306
+r1
+xCompileC
+xbuild/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/World1Level3Scene.o
+x/Users/Brady/Desktop/BradyFinalProject/Classes/World1Level3Scene.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvmgcc42
+o/Users/Brady/Desktop/BradyFinalProject/Classes/World1Level3Scene.mm: In function 'BOOL -[World1Level3Layer ccTouchBegan:withEvent:](World1Level3Layer*, objc_selector*, UITouch*, UIEvent*)':
+o/Users/Brady/Desktop/BradyFinalProject/Classes/World1Level3Scene.mm:381: warning: 'animationWithName:delay:' is deprecated (declared at /Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCAnimation.h:81)
+lSLF07#2@75"Compile /Users/Brady/Desktop/BradyFinalProject/Classes/World1Level3Scene.mm326227512#326227512#0(396"/Users/Brady/Desktop/BradyFinalProject/Classes/World1Level3Scene.mm: In function 'BOOL -[World1Level3Layer ccTouchBegan:withEvent:](World1Level3Layer*, objc_selector*, UITouch*, UIEvent*)':/Users/Brady/Desktop/BradyFinalProject/Classes/World1Level3Scene.mm:381: warning: 'animationWithName:delay:' is deprecated (declared at /Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCAnimation.h:81)1(22@123"'animationWithName:delay:' is deprecated (declared at /Users/Brady/Desktop/BradyFinalProject/libs/cocos2d/CCAnimation.h:81)326227512#190#206#0(6@67"/Users/Brady/Desktop/BradyFinalProject/Classes/World1Level3Scene.mm326163757#381#0#381#0#33"'*' is deprecated (declared at *)0(0#0#67"/Users/Brady/Desktop/BradyFinalProject/Classes/World1Level3Scene.mm8621619040#1839"    cd /Users/Brady/Desktop/BradyFinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -I/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/BradyFinalProject.hmap -Wall -F/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator -I/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/include -Ilibs -I/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/DerivedSources/i386 -I/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/DerivedSources -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/zT/zTE-Bmx9HFS26i1s9vCpB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BradyFinalProject_Prefix-dnbkfpffxepvapdtnprzzpadhoch/BradyFinalProject_Prefix.pch -c /Users/Brady/Desktop/BradyFinalProject/Classes/World1Level3Scene.mm -o /Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/World1Level3Scene.o0#
+
+CCompileC build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/main.o /Users/Brady/Desktop/BradyFinalProject/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s326227511.851681
+e326227511.923022
+r1
+xCompileC
+xbuild/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/main.o
+x/Users/Brady/Desktop/BradyFinalProject/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@53"Compile /Users/Brady/Desktop/BradyFinalProject/main.m326227511#326227511#0(0"0(0#0#45"/Users/Brady/Desktop/BradyFinalProject/main.m8613134912#1783"    cd /Users/Brady/Desktop/BradyFinalProject    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -I/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/BradyFinalProject.hmap -Wall -F/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator -I/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/include -Ilibs -I/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/DerivedSources/i386 -I/Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/DerivedSources -fvisibility=hidden -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/zT/zTE-Bmx9HFS26i1s9vCpB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BradyFinalProject_Prefix-fjgybcyzjlhnewhbumnioixfvuuo/BradyFinalProject_Prefix.pch -c /Users/Brady/Desktop/BradyFinalProject/main.m -o /Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/main.o0#
+
+CCpResource build/Debug-iphonesimulator/BradyFinalProject.app/Default.png Resources/Default.png
+s326227511.838595
+e326227511.850984
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BradyFinalProject.app/Default.png
+xResources/Default.png
+lSLF07#2@26"Copy Resources/Default.png326227511#326227511#0(0"0(0#0#60"/Users/Brady/Desktop/BradyFinalProject/Resources/Default.png8619756608#489"    cd /Users/Brady/Desktop/BradyFinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/BradyFinalProject/Resources/Default.png /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/BradyFinalProject.app/Icon-72.png Resources/Icon-72.png
+s326227511.765389
+e326227511.825253
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BradyFinalProject.app/Icon-72.png
+xResources/Icon-72.png
+lSLF07#2@26"Copy Resources/Icon-72.png326227511#326227511#0(0"0(0#0#60"/Users/Brady/Desktop/BradyFinalProject/Resources/Icon-72.png8609111584#489"    cd /Users/Brady/Desktop/BradyFinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/BradyFinalProject/Resources/Icon-72.png /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/BradyFinalProject.app/Icon-Small-50.png Resources/Icon-Small-50.png
+s326227511.764517
+e326227511.825015
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BradyFinalProject.app/Icon-Small-50.png
+xResources/Icon-Small-50.png
+lSLF07#2@32"Copy Resources/Icon-Small-50.png326227511#326227511#0(0"0(0#0#66"/Users/Brady/Desktop/BradyFinalProject/Resources/Icon-Small-50.png8610211680#495"    cd /Users/Brady/Desktop/BradyFinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/BradyFinalProject/Resources/Icon-Small-50.png /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/BradyFinalProject.app/Icon-Small.png Resources/Icon-Small.png
+s326227511.763632
+e326227511.829301
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BradyFinalProject.app/Icon-Small.png
+xResources/Icon-Small.png
+lSLF07#2@29"Copy Resources/Icon-Small.png326227511#326227511#0(0"0(0#0#63"/Users/Brady/Desktop/BradyFinalProject/Resources/Icon-Small.png8622677536#492"    cd /Users/Brady/Desktop/BradyFinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/BradyFinalProject/Resources/Icon-Small.png /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/BradyFinalProject.app/Icon-Small@2x.png Resources/Icon-Small@2x.png
+s326227511.762768
+e326227511.829064
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BradyFinalProject.app/Icon-Small@2x.png
+xResources/Icon-Small@2x.png
+lSLF07#2@32"Copy Resources/Icon-Small@2x.png326227511#326227511#0(0"0(0#0#66"/Users/Brady/Desktop/BradyFinalProject/Resources/Icon-Small@2x.png8623977376#495"    cd /Users/Brady/Desktop/BradyFinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/BradyFinalProject/Resources/Icon-Small@2x.png /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/BradyFinalProject.app/Icon.png Resources/Icon.png
+s326227511.761083
+e326227511.824618
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BradyFinalProject.app/Icon.png
+xResources/Icon.png
+lSLF07#2@23"Copy Resources/Icon.png326227511#326227511#0(0"0(0#0#57"/Users/Brady/Desktop/BradyFinalProject/Resources/Icon.png8603885408#486"    cd /Users/Brady/Desktop/BradyFinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/BradyFinalProject/Resources/Icon.png /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/BradyFinalProject.app/Icon@2x.png Resources/Icon@2x.png
+s326227511.761924
+e326227511.828895
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BradyFinalProject.app/Icon@2x.png
+xResources/Icon@2x.png
+lSLF07#2@26"Copy Resources/Icon@2x.png326227511#326227511#0(0"0(0#0#60"/Users/Brady/Desktop/BradyFinalProject/Resources/Icon@2x.png8603139840#489"    cd /Users/Brady/Desktop/BradyFinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/BradyFinalProject/Resources/Icon@2x.png /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/BradyFinalProject.app/block.png Resources/block.png
+s326227511.831728
+e326227511.841279
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BradyFinalProject.app/block.png
+xResources/block.png
+lSLF07#2@24"Copy Resources/block.png326227511#326227511#0(0"0(0#0#58"/Users/Brady/Desktop/BradyFinalProject/Resources/block.png8621148224#487"    cd /Users/Brady/Desktop/BradyFinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/BradyFinalProject/Resources/block.png /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/BradyFinalProject.app/blocks.png Resources/blocks.png
+s326227511.759534
+e326227511.828547
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BradyFinalProject.app/blocks.png
+xResources/blocks.png
+lSLF07#2@25"Copy Resources/blocks.png326227511#326227511#0(0"0(0#0#59"/Users/Brady/Desktop/BradyFinalProject/Resources/blocks.png8607986592#488"    cd /Users/Brady/Desktop/BradyFinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/BradyFinalProject/Resources/blocks.png /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/BradyFinalProject.app/fps_images.png Resources/fps_images.png
+s326227511.760283
+e326227511.828730
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BradyFinalProject.app/fps_images.png
+xResources/fps_images.png
+lSLF07#2@29"Copy Resources/fps_images.png326227511#326227511#0(0"0(0#0#63"/Users/Brady/Desktop/BradyFinalProject/Resources/fps_images.png8607081824#492"    cd /Users/Brady/Desktop/BradyFinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/BradyFinalProject/Resources/fps_images.png /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/BradyFinalProject.app/help-background.png Resources/help-background.png
+s326227511.834111
+e326227511.844635
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BradyFinalProject.app/help-background.png
+xResources/help-background.png
+lSLF07#2@34"Copy Resources/help-background.png326227511#326227511#0(0"0(0#0#68"/Users/Brady/Desktop/BradyFinalProject/Resources/help-background.png8620974400#497"    cd /Users/Brady/Desktop/BradyFinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/BradyFinalProject/Resources/help-background.png /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/BradyFinalProject.app/help.tmx Resources/help.tmx
+s326227511.841387
+e326227511.850195
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BradyFinalProject.app/help.tmx
+xResources/help.tmx
+lSLF07#2@23"Copy Resources/help.tmx326227511#326227511#0(0"0(0#0#57"/Users/Brady/Desktop/BradyFinalProject/Resources/help.tmx8613668096#486"    cd /Users/Brady/Desktop/BradyFinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/BradyFinalProject/Resources/help.tmx /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/BradyFinalProject.app/iTunesArtwork Resources/iTunesArtwork
+s326227511.766224
+e326227511.829469
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BradyFinalProject.app/iTunesArtwork
+xResources/iTunesArtwork
+lSLF07#2@28"Copy Resources/iTunesArtwork326227511#326227511#0(0"0(0#0#62"/Users/Brady/Desktop/BradyFinalProject/Resources/iTunesArtwork8606835680#491"    cd /Users/Brady/Desktop/BradyFinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/BradyFinalProject/Resources/iTunesArtwork /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/BradyFinalProject.app/level1.tmx Resources/level1.tmx
+s326227511.826259
+e326227511.837231
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BradyFinalProject.app/level1.tmx
+xResources/level1.tmx
+lSLF07#2@25"Copy Resources/level1.tmx326227511#326227511#0(0"0(0#0#59"/Users/Brady/Desktop/BradyFinalProject/Resources/level1.tmx8626707712#488"    cd /Users/Brady/Desktop/BradyFinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/BradyFinalProject/Resources/level1.tmx /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/BradyFinalProject.app/level2.tmx Resources/level2.tmx
+s326227511.825517
+e326227511.837049
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BradyFinalProject.app/level2.tmx
+xResources/level2.tmx
+lSLF07#2@25"Copy Resources/level2.tmx326227511#326227511#0(0"0(0#0#59"/Users/Brady/Desktop/BradyFinalProject/Resources/level2.tmx8631594880#488"    cd /Users/Brady/Desktop/BradyFinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/BradyFinalProject/Resources/level2.tmx /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/BradyFinalProject.app/level3.tmx Resources/level3.tmx
+s326227511.767094
+e326227511.825430
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BradyFinalProject.app/level3.tmx
+xResources/level3.tmx
+lSLF07#2@25"Copy Resources/level3.tmx326227511#326227511#0(0"0(0#0#59"/Users/Brady/Desktop/BradyFinalProject/Resources/level3.tmx8601069792#488"    cd /Users/Brady/Desktop/BradyFinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/BradyFinalProject/Resources/level3.tmx /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/BradyFinalProject.app/main-background.png Resources/main-background.png
+s326227511.835002
+e326227511.848028
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BradyFinalProject.app/main-background.png
+xResources/main-background.png
+lSLF07#2@34"Copy Resources/main-background.png326227511#326227511#0(0"0(0#0#68"/Users/Brady/Desktop/BradyFinalProject/Resources/main-background.png8620523616#497"    cd /Users/Brady/Desktop/BradyFinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/BradyFinalProject/Resources/main-background.png /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/BradyFinalProject.app/main.tmx Resources/main.tmx
+s326227511.840312
+e326227511.851482
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BradyFinalProject.app/main.tmx
+xResources/main.tmx
+lSLF07#2@23"Copy Resources/main.tmx326227511#326227511#0(0"0(0#0#57"/Users/Brady/Desktop/BradyFinalProject/Resources/main.tmx8619462720#486"    cd /Users/Brady/Desktop/BradyFinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/BradyFinalProject/Resources/main.tmx /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/BradyFinalProject.app/mario.png Resources/mario.png
+s326227511.833159
+e326227511.847830
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BradyFinalProject.app/mario.png
+xResources/mario.png
+lSLF07#2@24"Copy Resources/mario.png326227511#326227511#0(0"0(0#0#58"/Users/Brady/Desktop/BradyFinalProject/Resources/mario.png8621085984#487"    cd /Users/Brady/Desktop/BradyFinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/BradyFinalProject/Resources/mario.png /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/BradyFinalProject.app/mario1.png Resources/mario1.png
+s326227511.835865
+e326227511.844814
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BradyFinalProject.app/mario1.png
+xResources/mario1.png
+lSLF07#2@25"Copy Resources/mario1.png326227511#326227511#0(0"0(0#0#59"/Users/Brady/Desktop/BradyFinalProject/Resources/mario1.png8620020352#488"    cd /Users/Brady/Desktop/BradyFinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/BradyFinalProject/Resources/mario1.png /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/BradyFinalProject.app/mario2.png Resources/mario2.png
+s326227511.837676
+e326227511.845077
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BradyFinalProject.app/mario2.png
+xResources/mario2.png
+lSLF07#2@25"Copy Resources/mario2.png326227511#326227511#0(0"0(0#0#59"/Users/Brady/Desktop/BradyFinalProject/Resources/mario2.png8619935072#488"    cd /Users/Brady/Desktop/BradyFinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/BradyFinalProject/Resources/mario2.png /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/BradyFinalProject.app/mystery.png Resources/mystery.png
+s326227511.839453
+e326227511.849848
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BradyFinalProject.app/mystery.png
+xResources/mystery.png
+lSLF07#2@26"Copy Resources/mystery.png326227511#326227511#0(0"0(0#0#60"/Users/Brady/Desktop/BradyFinalProject/Resources/mystery.png8619592448#489"    cd /Users/Brady/Desktop/BradyFinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/BradyFinalProject/Resources/mystery.png /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/BradyFinalProject.app/smb-world-tiles.png Resources/smb-world-tiles.png
+s326227511.827529
+e326227511.837569
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BradyFinalProject.app/smb-world-tiles.png
+xResources/smb-world-tiles.png
+lSLF07#2@34"Copy Resources/smb-world-tiles.png326227511#326227511#0(0"0(0#0#68"/Users/Brady/Desktop/BradyFinalProject/Resources/smb-world-tiles.png8621651296#497"    cd /Users/Brady/Desktop/BradyFinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/BradyFinalProject/Resources/smb-world-tiles.png /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/BradyFinalProject.app/sonic-tiles.png Resources/sonic-tiles.png
+s326227511.829658
+e326227511.848301
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BradyFinalProject.app/sonic-tiles.png
+xResources/sonic-tiles.png
+lSLF07#2@30"Copy Resources/sonic-tiles.png326227511#326227511#0(0"0(0#0#64"/Users/Brady/Desktop/BradyFinalProject/Resources/sonic-tiles.png8621454272#493"    cd /Users/Brady/Desktop/BradyFinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/BradyFinalProject/Resources/sonic-tiles.png /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app0#
+
+CCpResource build/Debug-iphonesimulator/BradyFinalProject.app/world1level1.tmx Resources/world1level1.tmx
+s326227511.826850
+e326227511.837402
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BradyFinalProject.app/world1level1.tmx
+xResources/world1level1.tmx
+lSLF07#2@31"Copy Resources/world1level1.tmx326227511#326227511#0(0"0(0#0#65"/Users/Brady/Desktop/BradyFinalProject/Resources/world1level1.tmx8622747712#494"    cd /Users/Brady/Desktop/BradyFinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Brady/Desktop/BradyFinalProject/Resources/world1level1.tmx /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app0#
+
+CGenerateDSYMFile /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app.dSYM /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/BradyFinalProject
+s326227513.359362
+e326227513.602218
+r1
+xGenerateDSYMFile
+x/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app.dSYM
+x/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/BradyFinalProject
+lSLF07#2@139"GenerateDSYMFile build/Debug-iphonesimulator/BradyFinalProject.app.dSYM build/Debug-iphonesimulator/BradyFinalProject.app/BradyFinalProject326227513#326227513#0(0"0(0#0#106"/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/BradyFinalProject8607825856#413"    cd /Users/Brady/Desktop/BradyFinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/BradyFinalProject -o /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app.dSYM0#
+
+CLd /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/BradyFinalProject normal i386
+s326227512.861095
+e326227513.359091
+r1
+xLd
+x/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/BradyFinalProject
+xnormal
+xi386
+lSLF07#2@111"Link /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/BradyFinalProject326227512#326227513#0(0"0(0#0#0"8612206784#1105"    cd /Users/Brady/Desktop/BradyFinalProject    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-g++-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator -F/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator -filelist /Users/Brady/Desktop/BradyFinalProject/build/BradyFinalProject.build/Debug-iphonesimulator/BradyFinalProject.build/Objects-normal/i386/BradyFinalProject.LinkFileList -mmacosx-version-min=10.6 -all_load -ObjC -Xlinker -objc_abi_version -Xlinker 2 -framework CoreGraphics -framework Foundation -framework OpenGLES -framework QuartzCore -framework UIKit -framework AudioToolbox -framework OpenAL -lz -framework AVFoundation "-lcocos2d libraries" -o /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/BradyFinalProject0#
+
+CProcessInfoPlistFile /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/Info.plist Resources/Info.plist
+s326227511.734917
+e326227511.759417
+r1
+xProcessInfoPlistFile
+x/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/Info.plist
+xResources/Info.plist
+lSLF07#2@28"Process Resources/Info.plist326227511#326227511#0(0"0(0#0#59"/Users/Brady/Desktop/BradyFinalProject/Resources/Info.plist8603107392#501"    cd /Users/Brady/Desktop/BradyFinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Resources/Info.plist -genpkginfo /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app/Info.plist0#
+
+CProcessPCH /var/folders/zT/zTE-Bmx9HFS26i1s9vCpB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BradyFinalProject_Prefix-fjgybcyzjlhnewhbumnioixfvuuo/BradyFinalProject_Prefix.pch.gch BradyFinalProject_Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CProcessPCH++ /var/folders/zT/zTE-Bmx9HFS26i1s9vCpB++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BradyFinalProject_Prefix-dnbkfpffxepvapdtnprzzpadhoch/BradyFinalProject_Prefix.pch.gch BradyFinalProject_Prefix.pch normal i386 objective-c++ com.apple.compilers.llvmgcc42
+r0
+
+CTouch /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app
+s326227513.602311
+e326227513.605743
+r1
+xTouch
+x/Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app
+lSLF07#2@94"Touch /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app326227513#326227513#0(0"0(0#0#0"8630017088#288"    cd /Users/Brady/Desktop/BradyFinalProject    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Brady/Desktop/BradyFinalProject/build/Debug-iphonesimulator/BradyFinalProject.app0#
+
